@@ -1,7 +1,7 @@
-##Simple Coin Flip Game
+Simple Coin Flip Game
 This Simple Coin Flip Game features the 'FLIP' button. When clicked it provides a 50/50 chance to view a heads or tails coin. This game gave me the opportunity to practice what I learned recently in JavaScript about creating api's and using server.js.
 
-##Completion
+Completion
 It is 80% finished- I am still working on creating my own images and figuring out how to target asset images in JavaScript. For now there are some GIF placeholders from https://tenor.com/ .
 
 
