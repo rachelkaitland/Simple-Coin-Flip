@@ -15,4 +15,5 @@ It is 80% finished- I am still working on creating my own images and figuring ou
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
 
-© RachelKaitland()# Simple-Coin-Flip
+RachelKaitland
+#Simple-Coin-Flip
